@@ -1,0 +1,44 @@
+{
+  "name": "oasis-of-hope-website",
+  "version": "1.0.0",
+  "description": "Modern, responsive website for Oasis of Hope Initiatives - Healthcare & Empowerment Hub in Bulapesa, Isiolo County, Kenya",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000",
+    "serve": "python -m http.server 8000",
+    "build": "echo 'Static site - no build process required'",
+    "deploy": "echo 'Deploy to your preferred hosting service'"
+  },
+  "keywords": [
+    "healthcare",
+    "empowerment",
+    "community-development",
+    "kenya",
+    "isiolo",
+    "responsive",
+    "modern",
+    "3d-effects",
+    "animations"
+  ],
+  "author": "Oasis of Hope Initiatives",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/oasis-of-hope-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/oasis-of-hope-website/issues"
+  },
+  "homepage": "https://oasisofhopeinitiatives.org",
+  "devDependencies": {},
+  "dependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

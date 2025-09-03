@@ -1,0 +1,329 @@
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET / HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /images/hero/logo-73.avif HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /styles.css HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /images/hero/logo.png HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /images/footer/footer.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /script.js HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /images/team/moureen-400.avif HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /images/about/Isiolo-172-800.avif HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /images/team/james-400.avif HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /images/team/abdinoor-400.avif HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /images/team/joseph-400.avif HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /images/team/michelle-400.avif HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /images/team/boru-400.avif HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /images/team/douglas-400.avif HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /images/slideshow/childrenmedicalcamp.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /images/slideshow/borehole.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:58] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /images/slideshow/DSC_0309.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /images/slideshow/DSC_0346.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /images/slideshow/DSC_0315.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /images/slideshow/DSC_0322.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:58] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /images/slideshow/DSC_0544.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /images/slideshow/homevist.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /images/slideshow/DSC_0351.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /images/slideshow/DSC_0402.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /images/slideshow/DSC_0410.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /images/slideshow/DSC_0524.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /images/slideshow/DSC_0596.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /images/slideshow/DSC_0415.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /images/slideshow/DSC_0478.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /images/slideshow/DSC_0382.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /images/slideshow/DSC_0329.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /images/slideshow/graduation.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:58] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:58] "GET /images/slideshow/DSC_0570.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/team/Timothy-400.avif HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/team/bosire-400.avif HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/team/elizabeth-400.avif HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/DSC_0693.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/DSC_0496.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/DSC_0413.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/DSC_0659.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/DSC_0355.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/DSC_0701.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/DSC_0519.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/DSC_0560.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/DSC_0679.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/DSC_0390.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/DSC_0483.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/DSC_0703.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/DSC_0417.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/DSC_0690.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/DSC_0696.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/DSC_0510.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/DSC_0371.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/womengraduation.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/DSC_0636.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/DSC_0711.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/DSC_0339.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/DSC_0536.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/DSC_0591.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/heartscreening.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/tank.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/maternity.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/water.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/DSC_0336.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/DSC_0682.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/waterproject.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/DSC_0683.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:12:59] "GET /images/slideshow/empowerment.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:13:00] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:13:00] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:13:00] "GET /images/slideshow/DSC_0649.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:13:00] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:13:00] "GET /images/slideshow/DSC_0699.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:13:00] "GET /images/slideshow/DSC_0433.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:13:00] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:13:00] "GET /images/slideshow/DSC_0640.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:13:00] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:13:00] "GET /images/slideshow/DSC_0489.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:13:00] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:13:00] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:13:00] "GET /images/slideshow/grouplaunch.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:13:00] "GET /images/slideshow/DSC_0399.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:13:00] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:13:00] "GET /images/slideshow/medicalcamp.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:13:00] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:13:00] "GET /images/slideshow/youthtraining.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:13:00] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:13:00] "GET /images/slideshow/youths.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:13:00] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:13:00] "GET /images/slideshow/DSC_0471.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:13:00] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:13:00] "GET /images/slideshow/DSC_0374.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:13:00] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:13:00] "GET /images/slideshow/DSC_0423.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:13:00] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:13:00] "GET /images/slideshow/DSC_0454.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:13:08] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:13:08] "GET /images/about/Isiolo-172-800.avif HTTP/1.1" 404 -
+10.2.30.22 - - [03/Sep/2025 11:14:02] "GET / HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET / HTTP/1.1" 304 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/hero/logo.png HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /styles.css HTTP/1.1" 304 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/hero/logo-73.avif HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /script.js HTTP/1.1" 304 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/about/Isiolo-172-800.avif HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/team/joseph-400.avif HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/team/bosire-400.avif HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/team/moureen-400.avif HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/team/douglas-400.avif HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/team/elizabeth-400.avif HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/team/boru-400.avif HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/team/michelle-400.avif HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/team/abdinoor-400.avif HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/team/james-400.avif HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/team/Timothy-400.avif HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/slideshow/borehole.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/slideshow/childrenmedicalcamp.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/slideshow/DSC_0309.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/slideshow/DSC_0315.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/slideshow/DSC_0322.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/slideshow/DSC_0336.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:33] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/slideshow/DSC_0329.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/slideshow/DSC_0355.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/slideshow/DSC_0402.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/slideshow/DSC_0399.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/slideshow/DSC_0410.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/slideshow/DSC_0413.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/slideshow/DSC_0417.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/slideshow/DSC_0415.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/slideshow/DSC_0489.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/slideshow/DSC_0591.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/slideshow/DSC_0659.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/slideshow/DSC_0711.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/slideshow/empowerment.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/slideshow/youthtraining.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/slideshow/DSC_0679.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/slideshow/DSC_0596.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:33] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:33] "GET /images/slideshow/DSC_0496.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:34] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:34] "GET /images/slideshow/DSC_0636.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:34] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:34] "GET /images/slideshow/DSC_0536.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:34] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:34] "GET /images/slideshow/waterproject.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:34] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:34] "GET /images/slideshow/womengraduation.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:34] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:34] "GET /images/slideshow/DSC_0683.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:34] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:34] "GET /images/slideshow/DSC_0351.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:34] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:34] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:34] "GET /images/slideshow/maternity.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:34] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:34] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:34] "GET /images/slideshow/DSC_0339.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:34] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:34] "GET /images/slideshow/DSC_0699.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:34] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:34] "GET /images/slideshow/DSC_0483.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:34] "GET /images/slideshow/DSC_0544.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:34] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:34] "GET /images/slideshow/DSC_0346.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:34] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:34] "GET /images/slideshow/DSC_0682.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:34] "GET /images/slideshow/DSC_0560.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:34] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:34] "GET /images/slideshow/DSC_0696.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:34] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:34] "GET /images/slideshow/DSC_0649.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:34] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:34] "GET /images/slideshow/DSC_0454.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:35] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:35] "GET /images/slideshow/heartscreening.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:35] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:35] "GET /images/slideshow/medicalcamp.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:35] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:35] "GET /images/slideshow/water.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:35] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:35] "GET /images/slideshow/homevist.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:35] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:35] "GET /images/slideshow/tank.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:35] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:35] "GET /images/slideshow/graduation.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:35] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:35] "GET /images/slideshow/DSC_0519.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:35] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:35] "GET /images/slideshow/DSC_0640.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:35] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:35] "GET /images/slideshow/youths.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:35] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:35] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:35] "GET /images/slideshow/DSC_0382.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:35] "GET /images/slideshow/DSC_0390.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:35] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:35] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:35] "GET /images/slideshow/DSC_0471.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:35] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:35] "GET /images/slideshow/DSC_0433.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:35] "GET /images/slideshow/DSC_0371.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:35] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:35] "GET /images/slideshow/grouplaunch.jpg HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:35] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:35] "GET /images/slideshow/DSC_0570.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:35] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:35] "GET /images/slideshow/DSC_0510.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:35] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:35] "GET /images/slideshow/DSC_0693.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:35] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:35] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:35] "GET /images/slideshow/DSC_0703.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:35] "GET /images/slideshow/DSC_0690.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:35] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:35] "GET /images/slideshow/DSC_0423.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:35] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:35] "GET /images/slideshow/DSC_0374.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:36] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:36] "GET /images/slideshow/DSC_0478.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:36] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:36] code 404, message File not found
+10.2.16.11 - - [03/Sep/2025 11:15:36] "GET /images/slideshow/DSC_0524.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:15:36] "GET /images/slideshow/DSC_0701.JPG HTTP/1.1" 404 -
+10.2.16.11 - - [03/Sep/2025 11:16:01] "GET /images/services/medicalcamp-600.avif HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:16:01] "GET /images/services/homevist-600.avif HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:16:01] "GET /images/services/graduation-600.avif HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:16:01] "GET /images/services/waterproject-600.avif HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:16:01] "GET /images/services/grouplaunch-600.avif HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:16:01] "GET /images/services/heartscreening-600.avif HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:16:16] "GET /images/projects/childrenmedicalcamp-640.avif HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:16:16] "GET /images/projects/borehole-640.avif HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:16:16] "GET /images/projects/youths-640.avif HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:16:23] "GET /images/projects/grouplaunch-640.avif HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:16:23] "GET /images/projects/womengraduation-640.avif HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:16:23] "GET /images/projects/heartscreening-640.avif HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:16:31] "GET /images/facilities/healthcenter-640.avif HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:16:31] "GET /images/facilities/empowerment-640.avif HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:16:39] "GET /images/facilities/inpatient-640.avif HTTP/1.1" 200 -
+10.2.16.11 - - [03/Sep/2025 11:16:39] "GET /images/facilities/maternity-640.avif HTTP/1.1" 200 -
+10.2.24.16 - - [03/Sep/2025 11:17:25] "GET / HTTP/1.1" 200 -
+10.2.24.16 - - [03/Sep/2025 11:20:00] "GET / HTTP/1.1" 200 -
+10.2.24.16 - - [03/Sep/2025 11:20:09] "GET / HTTP/1.1" 200 -
